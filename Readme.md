@@ -16,6 +16,12 @@ Behind the scenes, we've harnessed the power of the CVZone library's remarkable 
 🚀 Seamless Adaptation: Whether communicating with gestures or words, our program seamlessly bridges the gap, opening doors to meaningful interactions.
 
 💬 Universal Dialogue: Witness the power of technology as it transforms hand gestures into a universal language, sparking conversations and connections.
+We use many sign for translaltion
+☝️- help
+✊- sorry 
+🤟 - i love vimal sir
+👍- good job
+✌️- pleasure meeting with you
 
 🔗 Join the Journey 🔗
 
